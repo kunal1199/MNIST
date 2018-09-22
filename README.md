@@ -36,4 +36,4 @@ python rnn.py
 
 ## Authors
 
-* **Kunal Sachdeva** - (https://github.com/)
+* **Kunal Sachdeva** - (https://github.com/kunal1199)
